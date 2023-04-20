@@ -36,3 +36,4 @@ stages:
               pmdRunAnalysis: true
               findBugsRunAnalysis: true
               spotBugsRunAnalysis: true
+
